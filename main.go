@@ -1,4 +1,4 @@
-package goFace
+package main
 
 import (
 "fmt"
